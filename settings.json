@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DANGALSMP007.aternos.me",
-    "port": 50828,
+    "ip": "dangalmc.aternos.me",
+    "port": 51486,
     "version": "1.20.1",
     "try-creative": false
   },
